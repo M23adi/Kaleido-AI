@@ -25,10 +25,10 @@ Kaleido uses **Google Gemini 1.5 Flash** to act as a "Contextual Translation Eng
    ```bash
    git clone [https://github.com/M23adi/Kaleido-AI.git](https://github.com/M23adi/Kaleido-AI.git)
 2. Install dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
 3. Run the app:
-    '''bash
+    ```bash
     streamlit run app.py
 Built with ❤️    
    
