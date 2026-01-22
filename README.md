@@ -1,6 +1,6 @@
 # 🌈 Kaleido: The Adaptive AI Tutor
 > *Don't just learn it. Relate to it.*
-**Click Here<<https://kaleidoai.streamlit.app/>> to try it**
+**Click Here<https://kaleidoai.streamlit.app/> to try it**
 Kaleido is an intelligent educational agent built for the **TechSprint Hackathon**. It solves the problem of "One-Size-Fits-All" education by dynamically restructuring complex topics to match the student's **Interests**, **Language**, and **Learning Style**.
 
 ## 🚀 The Problem
