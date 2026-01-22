@@ -23,7 +23,7 @@ Kaleido uses **Google Gemini 1.5 Flash** to act as a "Contextual Translation Eng
 ## 📸 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/M23adi/Kaleido-AI.git](https://github.com/M23adi/Kaleido-AI.git)
+   git clone https://github.com/M23adi/Kaleido-AI.git
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
