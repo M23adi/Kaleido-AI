@@ -3,7 +3,8 @@
 
 **[Click Here](https://kaleidoai.streamlit.app/) to try it**
 Kaleido is an intelligent educational agent which solves the problem of "One-Size-Fits-All" education by dynamically restructuring complex topics to match the student's **Interests**, **Language**, and **Learning Style**.
-##🆕 What's New in v2.0?
+
+## 🆕 What's New in v2.0?
 **Enterprise RAG Integration:** Upload PDFs (textbooks/syllabuses) to anchor the AI's knowledge in your specific course material.
 **Multilingual Embeddings:** Powered by Cohere, providing native-level support for Hinglish and Marathi Mix.
 **Gemini 2.5 Flash Brain:** Upgraded to the latest model for faster, more accurate reasoning.
